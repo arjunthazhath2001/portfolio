@@ -92,7 +92,7 @@ function Row2() {
         </div>
         <div className="col-span-6 mr-14 rounded-3xl flex flex-col">
         <div className='gap-2 grid grid-cols-12 bg-white shadow-md rounded-3xl p-9 grid-rows-12'>
-                       <div className=' bg-custom-gray row-span-8 col-span-12 h-[290px] shadow-lg flex items-center'>
+                       <div className=' bg-white row-span-8 col-span-12 h-[290px] shadow-lg flex items-center'>
                         <Image src={cr} alt="wallet image" height={440}></Image>
                        </div>
 
