@@ -58,25 +58,25 @@ const Item = styled.div`
 export function HorizontalScroll() {
   return (
     <Wrapper>
-      <Item className="whitespace-nowrap">
+      <Item className="whitespace-nowrap mx-6">
         <Image src={star} alt="Star" className="w-4 h-4 mx-1" />
         <span className="mx-2 text-base font-normal">
            PERSONAL <span className="font-bold">PORTFOLIO &nbsp;&nbsp;</span>
         </span>
       </Item>
-      <Item className="whitespace-nowrap">
+      <Item className="whitespace-nowrap mx-6">
         <Image src={star} alt="Star" className="w-4 h-4 mx-1" />
         <span className="mx-2 text-base font-normal">
            PERSONAL <span className="font-bold">PORTFOLIO &nbsp;&nbsp;</span>
         </span>
       </Item>
-      <Item className="whitespace-nowrap">
+      <Item className="whitespace-nowrap mx-6">
         <Image src={star} alt="Star" className="w-4 h-4 mx-1" />
         <span className="mx-2 text-base font-normal">
            PERSONAL <span className="font-bold">PORTFOLIO &nbsp;&nbsp;</span>
         </span>
       </Item>
-      <Item className="whitespace-nowrap">
+      <Item className="whitespace-nowrap mx-6">
         <Image src={star} alt="Star" className="w-4 h-4 mx-1" />
         <span className="mx-2 text-base font-normal">
            PERSONAL <span className="font-bold">PORTFOLIO &nbsp;&nbsp;</span>
