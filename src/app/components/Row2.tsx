@@ -99,7 +99,7 @@ function Row2() {
                        <div className='row-span-4 col-span-12'>
                        <div className='text-4xl font-mono text-gray-500 pt-3 flex justify-between items-center'>
                           CRYPTO WALLET
-                          <a href="https://github.com/arjunthazhath2001/webwallet" target="_blank" rel="noopener noreferrer">
+                          <a href="https://solanawallet-pearl.vercel.app/" target="_blank" rel="noopener noreferrer">
                             <VisitIcon />
                           </a>
                         </div>
